@@ -1,5 +1,15 @@
-### Hi there 👋
+### Full Stack Developer formado en Henry, amante de la automatización y modularización. Con influencia en marketing digital, interesado en el impacto que el desarrollo de la tecnología provoca en la vida cotidiana de las personas.
 
+Dispuesto a trabajar en solitario como en conjunto, siempre busco aprender de la gente con la que trabajo, y sumar nuevas tecnologías.
+
+| JavaScript, TypeScript, HTML, CSS, ReactJS, Redux, Express, NodeJS, SCRUM, After Effects, Photoshop |
+
+
+¡Contáctame!
+WhatsApp: +54 1168927091
+Gmail: lucasibrahim28@gmail.com
+Hotmail: lucas_rodrigoi@hotmail.com.ar
+LinkedIn: https://www.linkedin.com/in/lucas-ibrahim/
 <!--
 **Librahim99/librahim99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
