@@ -2,7 +2,7 @@
 
 Dispuesto a trabajar en solitario como en conjunto, siempre busco aprender de la gente con la que trabajo, y sumar nuevas tecnologías.
 
-| JavaScript, TypeScript, HTML, CSS, ReactJS, Redux, Express, NodeJS, SCRUM, After Effects, Photoshop |
+| JavaScript, TypeScript, HTML, CSS, ReactJS, Redux, Express, NodeJS,MongoDB , SCRUM, After Effects, Photoshop, GDScript |
 
 
 ¡Contáctame!
